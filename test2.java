@@ -2,7 +2,7 @@
  *第二题
  *计算一个数组中子数组之和的最大值
  *
- */
+ */ 
 public class Test2 {
 	static int[] arr = {5,-3,2,4};// 需要求的数组
 	static int maxIndex = arr.length - 1;// 数组的最大下标
