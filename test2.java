@@ -1,8 +1,6 @@
-package test;
 /**
  *第二题
  *计算一个数组中子数组之和的最大值
- * @author cz
  *
  */
 public class Test2 {
